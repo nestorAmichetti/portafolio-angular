@@ -21,8 +21,7 @@ const app_routes: Routes=[
     ],
     exports: [
       RouterModule
-    ],
-    declarations: [SearchComponent]
+    ]
 })
 
 export class AppRoutingModule {
